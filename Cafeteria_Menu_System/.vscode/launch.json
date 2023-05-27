@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Fatih YELBOĞA/Downloads/Cafeteria.Menu.System",
-      "program": "c:/Users/Fatih YELBOĞA/Downloads/Cafeteria.Menu.System/build/Debug/outDebug",
+      "cwd": "c:/Users/Fatih YELBOĞA/Desktop/GitHub/CENG322/Cafeteria_Menu_System",
+      "program": "c:/Users/Fatih YELBOĞA/Desktop/GitHub/CENG322/Cafeteria_Menu_System/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
